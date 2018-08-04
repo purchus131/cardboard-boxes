@@ -1,12 +1,18 @@
 
 
-https://beta.sankakucomplex.com/my_account - unsupported atm
-https://chan.sankakucomplex.com/user/show/707672
+
+
+https://beta.sankakucomplex.com/user/show/#unwholesome - unsupported atm
+https://chan.sankakucomplex.com/artist/recent_changes?user_id=707672 
+https://chan.sankakucomplex.com/wiki/recent_changes?user_id=707672
 
 https://danbooru.donmai.us/users/573193
 https://danbooru.donmai.us/artist_versions?search%5Bupdater_id%5D=573193
 
 https://e621.net/user/show/357970
 https://e621.net/wiki/recent_changes?user_id=357970
+
+
+
 
 
